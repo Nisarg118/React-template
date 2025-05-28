@@ -1,5 +1,5 @@
-import Navbar from "./Navbar";
+import Header from "./Header";
 import Searchbar from "./Searchbar";
 import HomeSkeleton from "./skeletons/HomeSkeleton";
 
-export { Navbar, Searchbar, HomeSkeleton };
+export { Header, Searchbar, HomeSkeleton };
